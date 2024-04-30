@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - goal
+  - maingoal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - PatrolEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: treeHide
+    uniqueID: 4008590925
+    locked: 0
+  - name: background
+    uniqueID: 455854089
+    locked: 0
+  - name: roads
+    uniqueID: 466608863
+    locked: 0
+  - name: goal
+    uniqueID: 2961970449
+    locked: 0
+  - name: tree
+    uniqueID: 104761213
+    locked: 0
+  - name: player
+    uniqueID: 2152119177
+    locked: 0
